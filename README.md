@@ -1,38 +1,47 @@
-# CS312 Fall 2022 Projects
+# Fall 2022 CS312 Projects
 
-This repository contains a collection of projects completed during the Fall 2022 semester for the CS312 course. Each project focuses on specific concepts and programming techniques, aiming to enhance understanding and proficiency in different areas of computer science. Below is a brief overview of each project:
-
-## ConnectFour
-- This project explores the implementation of 2D arrays and involves the development of a fully functional game of Connect Four. The game allows players to engage in strategic gameplay, aiming to connect a line of their tokens before their opponent does.
-
-## Critters
-- In the Critters project, the focus is on object-oriented programming principles. The main objective was to design and create a critter class capable of defeating all other critters in a simulated game environment.
-
-## GuitarHero
-- The GuitarHero project is centered around arrays of objects. It involves the development of a ring buffer to facilitate the functionality of a digital guitar, allowing users to play and generate sound through designated input mechanisms.
-
-## Hangman
-- This project delves into string manipulation techniques by implementing a game of Hangman. Users can play the game, trying to guess the hidden word within a limited number of attempts.
-
-## HomeField Advantage
-- The HomeField Advantage program aims to determine if there is a statistically significant home field advantage in a given dataset. It involves the analysis of provided data to draw conclusions regarding the impact of the home playing environment.
+Welcome to the repository showcasing my Fall 2022 CS312 Projects. Each project served as an opportunity for me to learn and expand my understanding of various programming concepts. Here's a brief overview of each project, highlighting the key learnings:
 
 ## I Know an Old Lady
-- In the I Know an Old Lady project, the focus is on understanding and utilizing methods in programming. The program involves the development of a system to create and manipulate instances of objects representing an old lady, showcasing the usage of methods to modify object behavior.
 
-## Personality Quiz
-- This project focuses on arrays and their implementation. The program allows users to answer a series of questions to determine their personality type based on the given answers. The program provides feedback on the personality type based on the input.
-
-## RockPaperScissors
-- The RockPaperScissors project involves the development of a fully functional game of Rock, Paper, Scissors against a computer opponent. Users can play the game and test their luck against the bot's choices.
-
-## Scintillation Grid
-- This project explores the concept of parameters in programming. It involves the creation of methods to print out different-sized squares on a drawing panel, allowing users to customize and visualize grids of various dimensions.
-
-## Substitution Cipher
-- The Substitution Cipher program focuses on encryption and decryption techniques. It allows users to encode and decode text using a substitution cipher algorithm, providing a secure and confidential means of communication.
+Through this project, I delved into understanding methods and their usage. By developing this program, I gained valuable insights into effectively structuring code and utilizing methods for better code organization and reusability.
 
 ## UT Tower
-- The UT Tower project emphasizes the usage of for loops in programming. It involves creating a method with for loops to dynamically adjust the size of a printed representation of the UT tower by modifying a global constant.
 
-Feel free to explore each project's directory for more details, source code, and additional documentation related to the implementation and functionalities.
+Using for loops, I successfully created a dynamic program that can change the size of a printed UT Tower. This project deepened my understanding of for loops' capabilities and their role in controlling program execution flow.
+
+## Scintillation Grid
+
+By exploring parameters and graphics, I developed methods to print out different-sized squares on a drawing panel. This project enhanced my grasp of parameter usage and expanded my understanding of graphics manipulation.
+
+## Rock Paper Scissors
+
+Developing a working game of Rock Paper Scissors against a bot enabled me to dive into boolean logic and while loop implementation. This project strengthened my ability to incorporate iterative control structures into my programs.
+
+## Hangman
+
+Through implementing a game of Hangman, I learned about string manipulation techniques. This project honed my skills in handling strings, including input validation, storing and comparing data, and building interactive user experiences.
+
+## HomeField Advantage
+
+The HomeField Advantage program aimed at exploring arrays. By developing this program, I gained proficiency in working with arrays, performing computations, and utilizing arrays to extract relevant information or make informed decisions.
+
+## Personality Quiz
+
+Developing a program for a personality quiz allowed me to dive into more advanced array implementation. Through this project, I deepened my understanding of arrays and their versatility in storing and manipulating data, enabling dynamic program behaviors based on user input.
+
+## Substitution Cipher
+
+To understand searching and sorting, I created a program that enables users to decode certain encrypted text using a substitution cipher. This project involved utilizing search and sorting algorithms, enhancing my problem-solving abilities and fostering a deeper comprehension of efficient data manipulation.
+
+## Connect Four
+
+By developing a functioning game of Connect Four, I explored the concepts of 2D arrays. This project expanded my understanding of multidimensional data structures, implementing game logic, and enhancing user interaction.
+
+## Critters
+
+Through the development of a critter battling game, I delved into the realm of object-oriented programming (OOP). This project provided valuable insights into designing and implementing classes, inheritance, encapsulation, and polymorphism, fostering skills crucial to successful OOP practices.
+
+## Guitar Hero
+
+Creating a ring buffer for sound on a digital guitar enabled me to comprehend arrays of objects. This project improved my understanding of managing, manipulating, and accessing arrays of objects, ensuring smooth sound playback and user interaction.
